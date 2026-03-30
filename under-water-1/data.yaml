@@ -1,0 +1,16 @@
+names:
+- echinus
+- holothurian
+- scallop
+- starfish
+- waterweeds
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: under-water-smqxk
+  url: https://universe.roboflow.com/1-c9cyg/under-water-smqxk/dataset/1
+  version: 1
+  workspace: 1-c9cyg
+test: ../test/images
+train: under-water-1/train/images
+val: under-water-1/valid/images

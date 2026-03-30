@@ -1,0 +1,6 @@
+train: /teamspace/studios/this_studio/under-water-1-enhanced/train/images
+val: /teamspace/studios/this_studio/under-water-1-enhanced/valid/images
+test: /teamspace/studios/this_studio/under-water-1-enhanced/test/images
+
+nc: 5
+names: ['echinus','holothurian','scallop','starfish','waterweeds']

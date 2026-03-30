@@ -1,0 +1,9 @@
+*.pt
+runs/
+__pycache__/
+*.jpg
+*.png
+train/
+val/
+test/
+*.zip
