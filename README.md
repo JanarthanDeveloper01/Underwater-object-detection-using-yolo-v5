@@ -102,10 +102,11 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Janarthan.B**
-B.Tech IT | Data Science Enthusiast
+Janarthan.B
+🎓 B.Tech Information Technology | Aspiring Data Scientist & AI Engineer
+💡 Passionate about building real-world AI solutions using Deep Learning and Computer Vision.
 📍 Chennai, India
 
 ---
